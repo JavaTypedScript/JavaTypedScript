@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-<img src="assets/divider-achievements.svg" width="100%" alt="achievements" />
+<img src="assets/divider-achievements.svg" width="100%" " />
 </div>
 
 <p align="center">
@@ -47,7 +47,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="90%" />
+  <img src="profile-3d-contrib/profile-green-animate.svg"  width="90%" />
 </picture>
 <!--END_3D_CONTRIB-->
 
