@@ -23,11 +23,25 @@ Clone it locally, or use the "Add file → Upload files" button on GitHub:
 JavaTypedScript/
 ├── README.md
 ├── SETUP.md
+├── assets/
+│   ├── hero-terminal.svg
+│   ├── divider-achievements.svg
+│   ├── divider-stack.svg
+│   ├── divider-3d.svg
+│   ├── divider-stats.svg
+│   ├── divider-snake.svg
+│   ├── divider-social.svg
+│   └── footer-terminal.svg
 └── .github/
     └── workflows/
         ├── snake.yml
         └── 3d-contrib.yml
 ```
+
+The `assets/` SVGs are custom-built terminal-window graphics (title
+bar, traffic-light buttons, phosphor glow, scanlines, blinking cursor)
+referenced directly by `README.md` — no external service required for
+these, so they render identically every time.
 
 ```bash
 git clone https://github.com/JavaTypedScript/JavaTypedScript.git
@@ -66,8 +80,10 @@ contribution squares.
 
 ## 5. (Optional) Swap in your own color theme
 
-- **Typing header**: edit the `readme-typing-svg.demolab.com` URL params
-  (`color`, `font`, `lines`) at the top of `README.md`.
+- **Terminal banners** (`assets/*.svg`): open `gen_terminals.py` (included
+  below the fold in this package), tweak the `GREEN` / `BG` / `BORDER`
+  hex constants or the command text per section, then re-run it with
+  `python3 gen_terminals.py` to regenerate every SVG at once.
 - **Stats cards**: `github-readme-stats` supports many themes — swap
   `theme=chartreuse-dark` for `dracula`, `synthwave`, `radical`, etc. at
   https://github.com/anuraghazra/github-readme-stats#themes

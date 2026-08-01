@@ -1,61 +1,26 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  ROHIT-TERM v2.6 ── /home/JavaTypedScript ── bash                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║  login as: rohit                                                   ║
-║  Last login: Sat Aug  1 2026 from 127.0.0.1                        ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=whoami;Rohit+R+Bhat+%E2%80%94+aka+JavaTypedScript;%3E+Code+when+Bored...;%3E+booting+creative_mode.exe" alt="Typing SVG" />
+<img src="assets/hero-terminal.svg" width="100%" alt="Rohit R Bhat — JavaTypedScript terminal banner" />
 
 </div>
 
 <br/>
-
-<table align="center">
-<tr>
-<td>
-
-```bash
-guest@JavaTypedScript:~$ cat about.md
-```
-</td>
-</tr>
-</table>
 
 <div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  root@JavaTypedScript  │  status: online                          │
-├──────────────────────────────────────────────────────────────────┤
-│  > name        : Rohit R Bhat                                     │
-│  > handle      : JavaTypedScript                                  │
-│  > motto       : "Code when Bored"                                │
-│  > repos       : 22                                                │
-│  > stars_given : 13                                                │
-│  > uptime      : still compiling myself...                        │
-└──────────────────────────────────────────────────────────────────┘
-```
-
+<img src="assets/divider-achievements.svg" width="100%" alt="achievements" />
 </div>
 
-<br/>
-
-## ```> ls -la ./achievements```
-
 <p align="center">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="70" title="Pull Shark x2" />
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="70" title="YOLO" />
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="70" title="Quickdraw" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="72" title="Pull Shark x2" />
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="72" title="YOLO" />
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="72" title="Quickdraw" />
 </p>
 
 <br/>
 
-## ```> cat stack.log```
+<div align="center">
+<img src="assets/divider-stack.svg" width="100%" alt="stack" />
+</div>
 
 <div align="center">
 
@@ -72,7 +37,9 @@ guest@JavaTypedScript:~$ cat about.md
 
 <br/>
 
-## ```> ./run_stats.sh --3d```
+<div align="center">
+<img src="assets/divider-3d.svg" width="100%" alt="3d stats" />
+</div>
 
 <div align="center">
 
@@ -90,7 +57,9 @@ guest@JavaTypedScript:~$ cat about.md
 
 <br/>
 
-## ```> top --stats```
+<div align="center">
+<img src="assets/divider-stats.svg" width="100%" alt="stats" />
+</div>
 
 <div align="center">
 
@@ -105,7 +74,9 @@ guest@JavaTypedScript:~$ cat about.md
 
 <br/>
 
-## ```> git log --graph --oneline --all```
+<div align="center">
+<img src="assets/divider-snake.svg" width="100%" alt="git log" />
+</div>
 
 <div align="center">
 
@@ -116,7 +87,9 @@ guest@JavaTypedScript:~$ cat about.md
 
 <br/>
 
-## ```> cat social.cfg```
+<div align="center">
+<img src="assets/divider-social.svg" width="100%" alt="social" />
+</div>
 
 <div align="center">
 
@@ -128,12 +101,9 @@ guest@JavaTypedScript:~$ cat about.md
 
 <div align="center">
 
-```
-> process exited with code 0
-> connection closed by remote host
-> ─────────────────────────────────────
-> thanks for stopping by, hit ⭐ if you liked the vibe
-```
+<img src="assets/footer-terminal.svg" width="100%" alt="terminal footer" />
+
+<br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JavaTypedScript&label=TERMINAL+VISITS&color=00FF41&style=flat-square&labelColor=0D0D0D)
 
